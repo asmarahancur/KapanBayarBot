@@ -75,8 +75,8 @@
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/username/kapan-bayar-bot.git
-cd kapan-bayar-bot
+git clone https://github.com/asmarahancur/KapanBayarBot.git
+cd KapanBayarBot
 ```
 
 2. **Buat Virtual Environment (Opsional tapi Direkomendasikan)**
